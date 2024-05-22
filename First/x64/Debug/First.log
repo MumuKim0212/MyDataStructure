@@ -1,0 +1,5 @@
+﻿  list.cpp
+D:\Work\C\First\First\list.cpp(39,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
+D:\Work\C\First\First\list.cpp(44,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
+D:\Work\C\First\First\list.cpp(47,3): error C2065: 'cout': 선언되지 않은 식별자입니다.
+D:\Work\C\First\First\list.cpp(49,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
