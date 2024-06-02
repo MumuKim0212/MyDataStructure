@@ -16,8 +16,11 @@
     <Filter Include="List">
       <UniqueIdentifier>{6b8dc282-cebd-4c1a-9d97-a7aad06db6e5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Stack_Queue">
+    <Filter Include="Stack">
       <UniqueIdentifier>{391e19e1-debe-45bf-a81e-4ede677cb802}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Queue">
+      <UniqueIdentifier>{776517d0-aecd-43da-abd3-088907544f9b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -30,17 +33,23 @@
     <ClCompile Include="list_main.cpp">
       <Filter>List</Filter>
     </ClCompile>
-    <ClCompile Include="stack_queue_main.cpp">
-      <Filter>Stack_Queue</Filter>
+    <ClCompile Include="Stack_main.cpp">
+      <Filter>Stack</Filter>
     </ClCompile>
-    <ClCompile Include="stack_queue.cpp">
-      <Filter>Stack_Queue</Filter>
+    <ClCompile Include="Stack.cpp">
+      <Filter>Stack</Filter>
     </ClCompile>
     <ClCompile Include="list.cpp">
       <Filter>List</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="queue.cpp">
+      <Filter>Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="queue_main.cpp">
+      <Filter>Queue</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -49,11 +58,17 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stack_queue.h">
-      <Filter>Stack_Queue</Filter>
+    <ClInclude Include="Stack_frame.h">
+      <Filter>Stack</Filter>
     </ClInclude>
     <ClInclude Include="list.h">
       <Filter>List</Filter>
+    </ClInclude>
+    <ClInclude Include="Queue.h">
+      <Filter>Queue</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>Stack</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
