@@ -134,19 +134,23 @@
     <ClCompile Include="First.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="list.cpp">
+    <ClCompile Include="Hash_frame.cpp" />
+    <ClCompile Include="PointerList.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="list_main.cpp">
+    <ClCompile Include="PointerList_main.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="queue.cpp" />
-    <ClCompile Include="queue_main.cpp" />
+    <ClCompile Include="Queue.cpp" />
+    <ClCompile Include="Queue_frame.h" />
+    <ClCompile Include="Queue_main.cpp" />
+    <ClCompile Include="ArrayList.cpp" />
+    <ClCompile Include="ArrayList_main.cpp" />
     <ClCompile Include="Stack_main.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="List_template.cpp">
+    <ClCompile Include="PointerList_template.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Stack.cpp">
@@ -157,10 +161,14 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="list.h">
+    <ClInclude Include="Node.h" />
+    <ClInclude Include="PointerList.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClInclude>
+    <ClInclude Include="PointerList_frame.h" />
     <ClInclude Include="Queue.h" />
+    <ClInclude Include="ArrayList.h" />
+    <ClInclude Include="ArrayList_frame.h" />
     <ClInclude Include="Stack.h" />
     <ClInclude Include="Stack_frame.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

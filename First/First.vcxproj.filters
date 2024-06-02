@@ -9,47 +9,71 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="리소스 파일">
+    <Filter Include="자료구조">
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="List">
-      <UniqueIdentifier>{6b8dc282-cebd-4c1a-9d97-a7aad06db6e5}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Stack">
+    <Filter Include="자료구조\1.Stack">
       <UniqueIdentifier>{391e19e1-debe-45bf-a81e-4ede677cb802}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Queue">
+    <Filter Include="자료구조\2.Queue">
       <UniqueIdentifier>{776517d0-aecd-43da-abd3-088907544f9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조\3.PointerList">
+      <UniqueIdentifier>{6b8dc282-cebd-4c1a-9d97-a7aad06db6e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조\4.ArrayList">
+      <UniqueIdentifier>{308955ff-dfff-4f5f-8594-b82fe54b9210}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조\0.Node">
+      <UniqueIdentifier>{140ac16a-28b6-4d52-9cd0-b0ab1492e8e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조\5.BinTree">
+      <UniqueIdentifier>{5460d774-30e0-4f46-874d-ed2674841bd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조\6.Hash">
+      <UniqueIdentifier>{c4d4e175-f17a-403a-85f5-55f02e098dbd}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="First.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="List_template.cpp">
-      <Filter>List</Filter>
+    <ClCompile Include="PointerList_template.cpp">
+      <Filter>자료구조\3.PointerList</Filter>
     </ClCompile>
-    <ClCompile Include="list_main.cpp">
-      <Filter>List</Filter>
+    <ClCompile Include="PointerList_main.cpp">
+      <Filter>자료구조\3.PointerList</Filter>
     </ClCompile>
     <ClCompile Include="Stack_main.cpp">
-      <Filter>Stack</Filter>
+      <Filter>자료구조\1.Stack</Filter>
     </ClCompile>
     <ClCompile Include="Stack.cpp">
-      <Filter>Stack</Filter>
+      <Filter>자료구조\1.Stack</Filter>
     </ClCompile>
-    <ClCompile Include="list.cpp">
-      <Filter>List</Filter>
+    <ClCompile Include="PointerList.cpp">
+      <Filter>자료구조\3.PointerList</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="queue.cpp">
-      <Filter>Queue</Filter>
+    <ClCompile Include="Queue.cpp">
+      <Filter>자료구조\2.Queue</Filter>
     </ClCompile>
-    <ClCompile Include="queue_main.cpp">
-      <Filter>Queue</Filter>
+    <ClCompile Include="Queue_main.cpp">
+      <Filter>자료구조\2.Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayList.cpp">
+      <Filter>자료구조\4.ArrayList</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayList_main.cpp">
+      <Filter>자료구조\4.ArrayList</Filter>
+    </ClCompile>
+    <ClCompile Include="Queue_frame.h">
+      <Filter>자료구조\2.Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash_frame.cpp">
+      <Filter>자료구조\6.Hash</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -59,16 +83,28 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stack_frame.h">
-      <Filter>Stack</Filter>
+      <Filter>자료구조\1.Stack</Filter>
     </ClInclude>
-    <ClInclude Include="list.h">
-      <Filter>List</Filter>
+    <ClInclude Include="PointerList.h">
+      <Filter>자료구조\3.PointerList</Filter>
     </ClInclude>
     <ClInclude Include="Queue.h">
-      <Filter>Queue</Filter>
+      <Filter>자료구조\2.Queue</Filter>
     </ClInclude>
     <ClInclude Include="Stack.h">
-      <Filter>Stack</Filter>
+      <Filter>자료구조\1.Stack</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayList.h">
+      <Filter>자료구조\4.ArrayList</Filter>
+    </ClInclude>
+    <ClInclude Include="PointerList_frame.h">
+      <Filter>자료구조\3.PointerList</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayList_frame.h">
+      <Filter>자료구조\4.ArrayList</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>자료구조\0.Node</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
