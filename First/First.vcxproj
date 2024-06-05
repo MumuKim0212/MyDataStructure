@@ -131,10 +131,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryTree.cpp" />
     <ClCompile Include="First.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Hash_frame.cpp" />
+    <ClCompile Include="BinSearchTree.cpp" />
+    <ClCompile Include="Graph.cpp" />
     <ClCompile Include="PointerList.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -161,6 +163,12 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryTree.h" />
+    <ClInclude Include="BinaryTree_frame.h" />
+    <ClInclude Include="BinSearchTree.h" />
+    <ClInclude Include="BinSearchTree_frame.h" />
+    <ClInclude Include="Graph.h" />
+    <ClInclude Include="Graph_frame.h" />
     <ClInclude Include="Node.h" />
     <ClInclude Include="PointerList.h">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

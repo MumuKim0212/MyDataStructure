@@ -28,11 +28,14 @@
     <Filter Include="자료구조\0.Node">
       <UniqueIdentifier>{140ac16a-28b6-4d52-9cd0-b0ab1492e8e1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="자료구조\5.BinTree">
+    <Filter Include="자료구조\5.BinaryTree">
       <UniqueIdentifier>{5460d774-30e0-4f46-874d-ed2674841bd8}</UniqueIdentifier>
     </Filter>
-    <Filter Include="자료구조\6.Hash">
+    <Filter Include="자료구조\6.BinarySearchTree">
       <UniqueIdentifier>{c4d4e175-f17a-403a-85f5-55f02e098dbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="자료구조\7.Graph">
+      <UniqueIdentifier>{ce8797c9-e6f2-4b69-a16d-6d479dabb0ba}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -72,8 +75,14 @@
     <ClCompile Include="Queue_frame.h">
       <Filter>자료구조\2.Queue</Filter>
     </ClCompile>
-    <ClCompile Include="Hash_frame.cpp">
-      <Filter>자료구조\6.Hash</Filter>
+    <ClCompile Include="BinSearchTree.cpp">
+      <Filter>자료구조\6.BinarySearchTree</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryTree.cpp">
+      <Filter>자료구조\5.BinaryTree</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph.cpp">
+      <Filter>자료구조\7.Graph</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -105,6 +114,24 @@
     </ClInclude>
     <ClInclude Include="Node.h">
       <Filter>자료구조\0.Node</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree.h">
+      <Filter>자료구조\5.BinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryTree_frame.h">
+      <Filter>자료구조\5.BinaryTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BinSearchTree.h">
+      <Filter>자료구조\6.BinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="BinSearchTree_frame.h">
+      <Filter>자료구조\6.BinarySearchTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>자료구조\7.Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph_frame.h">
+      <Filter>자료구조\7.Graph</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
