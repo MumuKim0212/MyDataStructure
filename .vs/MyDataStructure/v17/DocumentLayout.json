@@ -3,68 +3,28 @@
   "WorkspaceRootPath": "D:\\Work\\C\\MyDataStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Graph_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Graph_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\BinSearchTree_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\BinSearchTree_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\BinaryTree_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\BinaryTree_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\ArrayList_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\ArrayList_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\BinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\BinaryTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\BinaryTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\PointerList_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\PointerList_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\PointerList_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\PointerList_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Queue_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Queue_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Stack_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Stack_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|D:\\Work\\C\\MyDataStructure\\First\\Queue_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23C9DBCF-6432-4AFD-A722-51E96D4A5A5F}|First\\First.vcxproj|solutionrelative:First\\Queue_frame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 240,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,199 +46,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Graph_frame.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Graph_frame.h",
-              "RelativeDocumentMoniker": "First\\Graph_frame.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Graph_frame.h",
-              "RelativeToolTip": "First\\Graph_frame.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-04T10:39:34.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Graph.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Graph.h",
-              "RelativeDocumentMoniker": "First\\Graph.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Graph.h",
-              "RelativeToolTip": "First\\Graph.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-04T10:39:26.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Graph.cpp",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Graph.cpp",
-              "RelativeDocumentMoniker": "First\\Graph.cpp",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Graph.cpp",
-              "RelativeToolTip": "First\\Graph.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-04T10:39:20.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BinSearchTree_frame.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\BinSearchTree_frame.h",
-              "RelativeDocumentMoniker": "First\\BinSearchTree_frame.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\BinSearchTree_frame.h",
-              "RelativeToolTip": "First\\BinSearchTree_frame.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T10:25:11.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Node.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Node.h",
-              "RelativeDocumentMoniker": "First\\Node.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Node.h",
-              "RelativeToolTip": "First\\Node.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T09:04:31.125Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BinaryTree_frame.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\BinaryTree_frame.h",
-              "RelativeDocumentMoniker": "First\\BinaryTree_frame.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\BinaryTree_frame.h",
-              "RelativeToolTip": "First\\BinaryTree_frame.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T09:03:15.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BinaryTree.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\BinaryTree.h",
-              "RelativeDocumentMoniker": "First\\BinaryTree.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\BinaryTree.h",
-              "RelativeToolTip": "First\\BinaryTree.h",
+              "Title": "Stack.h",
+              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Stack.h",
+              "RelativeDocumentMoniker": "First\\Stack.h",
+              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Stack.h",
+              "RelativeToolTip": "First\\Stack.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T09:03:01.402Z"
+              "WhenOpened": "2024-06-07T08:13:11.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BinaryTree.cpp",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\BinaryTree.cpp",
-              "RelativeDocumentMoniker": "First\\BinaryTree.cpp",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\BinaryTree.cpp",
-              "RelativeToolTip": "First\\BinaryTree.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-03T09:02:51.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ArrayList_frame.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\ArrayList_frame.h",
-              "RelativeDocumentMoniker": "First\\ArrayList_frame.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\ArrayList_frame.h",
-              "RelativeToolTip": "First\\ArrayList_frame.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T04:09:33.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PointerList_main.cpp",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\PointerList_main.cpp",
-              "RelativeDocumentMoniker": "First\\PointerList_main.cpp",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\PointerList_main.cpp",
-              "RelativeToolTip": "First\\PointerList_main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-03T04:00:20.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PointerList_frame.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\PointerList_frame.h",
-              "RelativeDocumentMoniker": "First\\PointerList_frame.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\PointerList_frame.h",
-              "RelativeToolTip": "First\\PointerList_frame.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T02:52:24.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\main.cpp",
-              "RelativeDocumentMoniker": "First\\main.cpp",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\main.cpp",
-              "RelativeToolTip": "First\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-03T03:30:34.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Queue_frame.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Queue_frame.h",
-              "RelativeDocumentMoniker": "First\\Queue_frame.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Queue_frame.h",
-              "RelativeToolTip": "First\\Queue_frame.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T03:44:40.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Queue.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Queue.h",
-              "RelativeDocumentMoniker": "First\\Queue.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Queue.h",
-              "RelativeToolTip": "First\\Queue.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T04:00:19.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "Queue.cpp",
               "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\queue.cpp",
               "RelativeDocumentMoniker": "First\\queue.cpp",
               "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\queue.cpp",
               "RelativeToolTip": "First\\queue.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-03T03:32:23.512Z"
+              "WhenOpened": "2024-06-07T06:04:10.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Stack_frame.h",
-              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Stack_frame.h",
-              "RelativeDocumentMoniker": "First\\Stack_frame.h",
-              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Stack_frame.h",
-              "RelativeToolTip": "First\\Stack_frame.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "DocumentIndex": 3,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Stack.cpp",
+              "RelativeDocumentMoniker": "First\\Stack.cpp",
+              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Stack.cpp",
+              "RelativeToolTip": "First\\Stack.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T04:20:08.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "bef0f63e-6344-4d81-95cb-0570856f3cd9",
+        "Display": 0,
+        "X": 458,
+        "Y": 63,
+        "Width": 1264,
+        "Height": 700,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Queue_frame.h",
+              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Queue_frame.h",
+              "RelativeDocumentMoniker": "First\\Queue_frame.h",
+              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Queue_frame.h",
+              "RelativeToolTip": "First\\Queue_frame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-03T02:52:43.633Z"
+              "WhenOpened": "2024-06-07T06:04:11.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "5a2b213c-6926-440a-850f-3906a471bab9",
+        "Display": 0,
+        "X": 225,
+        "Y": 65,
+        "Width": 1264,
+        "Height": 700,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.h",
+              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Node.h",
+              "RelativeDocumentMoniker": "First\\Node.h",
+              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Node.h",
+              "RelativeToolTip": "First\\Node.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T08:16:26.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queue.h",
+              "DocumentMoniker": "D:\\Work\\C\\MyDataStructure\\First\\Queue.h",
+              "RelativeDocumentMoniker": "First\\Queue.h",
+              "ToolTip": "D:\\Work\\C\\MyDataStructure\\First\\Queue.h",
+              "RelativeToolTip": "First\\Queue.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-07T06:04:12.783Z",
+              "EditorCaption": ""
             }
           ]
         }

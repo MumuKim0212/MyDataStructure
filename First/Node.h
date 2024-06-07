@@ -9,3 +9,9 @@ typedef struct __node {
 	__node* next;
 	__node* prev;
 }NODE;
+
+typedef struct __inode {
+	int data;
+	__inode* next;
+	__inode* prev;
+}INODE;

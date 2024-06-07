@@ -37,6 +37,9 @@
     <Filter Include="자료구조\7.Graph">
       <UniqueIdentifier>{ce8797c9-e6f2-4b69-a16d-6d479dabb0ba}</UniqueIdentifier>
     </Filter>
+    <Filter Include="자료구조\8.Hash">
+      <UniqueIdentifier>{ce06bdb4-9115-428d-9ee2-dacefe19756f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="First.c">
@@ -83,6 +86,12 @@
     </ClCompile>
     <ClCompile Include="Graph.cpp">
       <Filter>자료구조\7.Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="hash_book_openadd.cpp">
+      <Filter>자료구조\8.Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="hash_book_chain.cpp">
+      <Filter>자료구조\8.Hash</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

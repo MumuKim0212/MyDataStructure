@@ -137,6 +137,8 @@
     </ClCompile>
     <ClCompile Include="BinSearchTree.cpp" />
     <ClCompile Include="Graph.cpp" />
+    <ClCompile Include="hash_book_chain.cpp" />
+    <ClCompile Include="hash_book_openadd.cpp" />
     <ClCompile Include="PointerList.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
